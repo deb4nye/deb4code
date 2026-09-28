@@ -1,6 +1,6 @@
 # deb4code
 
-A deb4code a programtervező Informatikus és Mérnökinformatikus hallgatóknak ad konyhakész megoldást Linux alapokon.
+A deb4code a Programtervező Informatikus és Mérnökinformatikus hallgatóknak ad konyhakész megoldást Linux alapokon.
 
 Az alábbi alkalmazásokat tartalmazza:
 
