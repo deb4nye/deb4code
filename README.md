@@ -4,16 +4,16 @@ A deb4code a programtervező Informatikus és Mérnökinformatikus hallgatóknak
 
 Az alábbi alkalmazásokat tartalmazza:
 
-*WebStorm
-*PyCharm
-*Bluefish
-*CLion
-*CodeBlocks
-*CodeLite
-*KDevelop
-*qtCreator
-*IntelliJ IDEA
-*íVisual Studio Code
+* WebStorm
+* PyCharm
+* Bluefish
+* CLion
+* CodeBlocks
+* CodeLite
+* KDevelop
+* qtCreator
+* IntelliJ IDEA
+* íVisual Studio Code
 
 A grub, plymouth, és desktop témák kialakítása folyamatban.
 
